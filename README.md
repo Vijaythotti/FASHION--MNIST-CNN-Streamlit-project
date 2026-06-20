@@ -1,4 +1,4 @@
-# Fashion-MNIST CNN + Streamlit
+# Image Classification Fashion-MNIST CNN + Streamlit
 
 This project trains a deeper CNN on Fashion-MNIST and serves predictions through a Streamlit app. It supports both classic Fashion-MNIST test images and real-world fashion photos by applying a stronger preprocessing pipeline before inference.
 
